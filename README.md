@@ -1,2 +1,4 @@
 # pingalgarh_intro
 The first and foremost repository of my life. Though, it doesn't seem like that. Haa...Haa...
+<br>
+Author-Siddiq Ahmad
